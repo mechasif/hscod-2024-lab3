@@ -1,4 +1,4 @@
-# LAB-03_HWSCOD
+# LAB 03
 ## How to work with the lab :
 1. install WSL for people with windows. With ubuntu, just continue!
 2. on the terminal type sudo ./install_everything.sh, this is will install everything for you
