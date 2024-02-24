@@ -1,8 +1,7 @@
 ## Lab 3
 
 ### How to work with the lab :
-
-1. Install WSL (Ubuntu) for Windows. You can find it in the Microsoft store. (If there’s any issue, try “Turn Windows feature on or off”). With ubuntu, just continue!
+1. install WSL for people with windows. With ubuntu, just continue!
 2. on the terminal type sudo ./install_everything.sh, this is will install everything for you
 3. Write your code in sources/main.cpp
 4. To upload code do : arm-linux-gnueabi-g++ Sources/main.cpp -o <output_lab3> -static
