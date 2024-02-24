@@ -1,5 +1,3 @@
-# hscod-2024-public
-
 ## Lab 1
 You can add board files in Vivado. Some Digilent boards don't show up in Vivado on fresh install and have to be added manually in Vivado.
 
