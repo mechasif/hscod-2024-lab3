@@ -1,3 +1,3 @@
-Lab 3 info for the course Hardware Software Co-design
+Lab 3 files for the course Hardware Software Co-design
 
 
